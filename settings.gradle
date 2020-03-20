@@ -1,0 +1,2 @@
+rootProject.name='QuizApp2020DMA'
+include ':app'
